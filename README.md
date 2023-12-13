@@ -3,6 +3,7 @@ The requirements are Android Pie or newer. The goals were to create an inventory
 the app was designed to address was the need to track and control inventory.
 
 ---What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+
 The screens needed were a login screen, user account registration screen, inventory list screen, item edit screen, add item screen, and sms notification screen. My UI design was 
 kept simple in order to not distract or confuse the user, and I feel that this was susccessful.
 
